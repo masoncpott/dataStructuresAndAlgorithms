@@ -23,3 +23,15 @@
   1. Most primitives are constant space. Primitives being booleans, numbers, undefined, and null.
   2. Strings require O(n) space, where n is the string lenght.
   3. Reference types are generally O(n), where n is the length (for arrays) or the number of keys for an object.
+
+# Objects
+  - insertion, deletion, and access are O(1)
+  - Seaching is O(n)
+  - they are un-ordered lists
+
+# Arrays
+  - they are ordered lists
+  - insertion time complexity can vary
+  - removal time complexity can vary
+  - searching is O(n)
+  - access is O(1)
