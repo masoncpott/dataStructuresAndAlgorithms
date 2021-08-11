@@ -10,7 +10,7 @@
   - *Devise* a plan for solving provlems.
   - *Master* common problem solving patterns.
 
-# Problem Solving Strategies
+## Problem Solving Strategies
   1. Understand the problem.
   2. Explore concrete examples.
   3. Break it down.
@@ -51,3 +51,7 @@
  - Can you improve the performance of your solution?
  - Can you think of other ways to refactor?
  - How have other people solved this problem?
+
+## Problem Solving Patterns
+
+  # Frequency Counters
