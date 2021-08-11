@@ -38,3 +38,16 @@
 
 # Solve or Simplify
  - solve the problem if you can, if you can't, solve a simpler problem.
+ - find the core difficulty in what you are trying to do
+ - temporarily ignore that difficulty
+ - write a simplified solution
+ - then incorporate that difficulty back in
+
+# Look Back and Refactor
+ - Can you check the result?
+ - Can you derive the result differenctly?
+ - Can you understand it at a glance?
+ - Can you use the result or method for some other problem?
+ - Can you improve the performance of your solution?
+ - Can you think of other ways to refactor?
+ - How have other people solved this problem?
