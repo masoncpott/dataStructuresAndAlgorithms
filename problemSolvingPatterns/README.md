@@ -57,3 +57,9 @@
   ## Frequency Counters
    - this pattern uses objects or sets to collect values/frequencies of values
    - this can often avoid the need for nested loops or O(n^2) operations with arrays/strings
+   - see example_2 and exampe_3
+
+  ## Multiple Pointers
+   - Creating pointers or values that correspond to an index or position and move towards the beginning, end or middle based on a certain condition
+   - Very efficient for solving problems with minimal space complexity as well
+   - see example_4
