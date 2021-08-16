@@ -64,8 +64,13 @@
    - Very efficient for solving problems with minimal space complexity as well
    - see example_4, example_5
 
-   ## Sliding Window
+  ## Sliding Window
    - This pattern involves creating a WINDOW which can either be an array or number from one position to another
    - Depending on a certain condition, the window either increases or closes (and a new window is created)
    - Very useful for keeping track of a subset of data in an array/string etc.
    - see example_6
+
+  ## Divide and Conquer
+   - This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data.
+   - This pattern can tremendously decrease time complexity.
+   - see example_7
