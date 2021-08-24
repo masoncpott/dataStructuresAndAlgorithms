@@ -1,6 +1,6 @@
 //Multiple Pointers
 
-//write a function called "sumZero" which accepts a SORTED array of integers. The function should find the FIRST pair where the sum is 0. Return as array that includes both values that sum to zero or undefined if a pair does not exist.
+//write a function called "sumZero" which accepts a SORTED array of integers. The function should find the FIRST pair where the sum is 0. Return an array that includes both values that sum to zero or undefined if a pair does not exist.
 
 //Naive solution
 //time complexity: O(n^2)
