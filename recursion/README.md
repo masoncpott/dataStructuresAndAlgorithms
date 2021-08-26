@@ -19,3 +19,14 @@
 - Forgetting to return or returning the wrong thing
 - Stack Overflow!
 
+
+## Helper Method Recursion
+- an outer function contains an inner, recursive function that is utilized within the outer function.
+- very useful when traversing an array
+
+
+## Pure Recursion
+- the function itself is completely self contained and it is recursive
+- For arrays, use methods like slice, the spread operator, and concat that make copies of the arrays so you do not mutate them.
+- Remember that strings are immutable so you will need to use methods like slice, substr, or substring to make copies of strings.
+- To make copies of objects use Obnject.assign, or the spread operator.
